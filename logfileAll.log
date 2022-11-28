@@ -1,0 +1,657 @@
+aDayIndes 1223     weekDay Thursday   Date 2022-10-06 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 10.0  baseValue: 9.937819999999999  dayIndex: 1223   2022-11-28 12:28:02.447518  442 seconds
+aDayIndes 1224     weekDay Friday   Date 2022-10-07 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 10.0  baseValue: 9.52649  dayIndex: 1224   2022-11-28 12:34:59.852274  859 seconds
+aDayIndes 1225     weekDay Monday   Date 2022-10-10 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 10.0  baseValue: 9.44013  dayIndex: 1225   2022-11-28 12:41:46.234754  1266 seconds
+aDayIndes 1226     weekDay Tuesday   Date 2022-10-11 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 10.0  baseValue: 9.32418  dayIndex: 1226   2022-11-28 12:48:30.367205  1670 seconds
+aDayIndes 1227     weekDay Wednesday   Date 2022-10-12 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 10.0  baseValue: 9.312909999999999  dayIndex: 1227   2022-11-28 12:55:37.464558  2097 seconds
+aDayIndes 1228     weekDay Thursday   Date 2022-10-13 00:00:00
+name amzn
+1/1 [==============================] - 0s 225ms/step
+name aapl
+1/1 [==============================] - 0s 227ms/step
+name msft
+1/1 [==============================] - 0s 256ms/step
+name googl
+1/1 [==============================] - 0s 221ms/step
+name goog
+1/1 [==============================] - 0s 226ms/step
+name tsla
+1/1 [==============================] - 0s 215ms/step
+name meta
+1/1 [==============================] - 0s 217ms/step
+name brk.b
+1/1 [==============================] - 0s 219ms/step
+name unh
+1/1 [==============================] - 0s 220ms/step
+name nvda
+1/1 [==============================] - 0s 215ms/step
+buying put fraction: -0.029353537777084972 stock: googl
+buying put fraction: -0.03637351285445043 stock: aapl
+buying put fraction: -0.03986279528380183 stock: meta
+buying call fraction: 0.05016684169814885 stock: msft
+buying put fraction: -0.029353537777084972 stock: googl
+buying put fraction: -0.03637351285445043 stock: aapl
+buying put fraction: -0.03986279528380183 stock: meta
+buying call fraction: 0.05016684169814885 stock: msft
+m: 8.786840000000002  baseValue: 9.530449999999997  dayIndex: 1228   2022-11-28 13:02:49.597314  2529 seconds
+aDayIndes 1229     weekDay Friday   Date 2022-10-14 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 8.786840000000002  baseValue: 9.23429  dayIndex: 1229   2022-11-28 13:09:33.153082  2933 seconds
+aDayIndes 1230     weekDay Monday   Date 2022-10-17 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 8.786840000000002  baseValue: 9.60882  dayIndex: 1230   2022-11-28 13:16:19.669209  3339 seconds
+aDayIndes 1231     weekDay Tuesday   Date 2022-10-18 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 8.786840000000002  baseValue: 9.67156  dayIndex: 1231   2022-11-28 13:23:07.448261  3747 seconds
+aDayIndes 1232     weekDay Wednesday   Date 2022-10-19 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 8.786840000000002  baseValue: 9.634049999999998  dayIndex: 1232   2022-11-28 13:29:58.181212  4158 seconds
+aDayIndes 1233     weekDay Thursday   Date 2022-10-20 00:00:00
+name amzn
+1/1 [==============================] - 0s 214ms/step
+name aapl
+1/1 [==============================] - 0s 215ms/step
+name msft
+1/1 [==============================] - 0s 220ms/step
+name googl
+1/1 [==============================] - 0s 220ms/step
+name goog
+1/1 [==============================] - 0s 214ms/step
+name tsla
+1/1 [==============================] - 0s 240ms/step
+name meta
+1/1 [==============================] - 0s 215ms/step
+name brk.b
+1/1 [==============================] - 0s 308ms/step
+name unh
+1/1 [==============================] - 0s 306ms/step
+name nvda
+1/1 [==============================] - 0s 306ms/step
+buying put fraction: -0.028285002675479044 stock: unh
+buying put fraction: -0.039115471124599094 stock: aapl
+buying put fraction: -0.04483897667268865 stock: goog
+buying put fraction: -0.05242081331350337 stock: nvda
+m: 7.900100000000002  baseValue: 9.56244  dayIndex: 1233   2022-11-28 13:37:22.609342  4602 seconds
+aDayIndes 1234     weekDay Friday   Date 2022-10-21 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+Friday option expire 0th td
+put sb.dataframe.iloc[-1] Volume                0.18794
+Date      2022-10-21 00:00:00
+Close                 0.10113
+Name: 24, dtype: object
+td SevenDay(index=3, count=45, price=0.09906000000000001, predictedPrice=0.09615224, dayIndex=1228, cost=0.09906000000000001, call=False)
+put failed, loss= 0.09906000000000001
+Friday option expire 1th td
+put sb.dataframe.iloc[-1] Volume               0.130975
+Date      2022-10-21 00:00:00
+Close                 0.14727
+Name: 24, dtype: object
+td SevenDay(index=1, count=45, price=0.14299, predictedPrice=0.13778895, dayIndex=1228, cost=0.14299, call=False)
+put failed, loss= 0.14299
+Friday option expire 2th td
+put sb.dataframe.iloc[-1] Volume               0.177938
+Date      2022-10-21 00:00:00
+Close                 0.13001
+Name: 24, dtype: object
+td SevenDay(index=6, count=45, price=0.13029, predictedPrice=0.12509628, dayIndex=1228, cost=0.13029, call=False)
+put net =  -0.11768999999999988
+Friday option expire 3th td
+call sb.dataframe.iloc[-] Volume               0.169615
+Date      2022-10-21 00:00:00
+Close                 0.24212
+Name: 24, dtype: object
+td SevenDay(index=2, count=45, price=0.23424, predictedPrice=0.24599108, dayIndex=1228, cost=0.23424, call=True)
+call net = 0.12035999999999991
+Friday option expire 4th td
+put sb.dataframe.iloc[-1] Volume                0.18794
+Date      2022-10-21 00:00:00
+Close                 0.10113
+Name: 24, dtype: object
+td SevenDay(index=3, count=45, price=0.09906000000000001, predictedPrice=0.09615224, dayIndex=1228, cost=0.09906000000000001, call=False)
+put failed, loss= 0.09906000000000001
+Friday option expire 5th td
+put sb.dataframe.iloc[-1] Volume               0.130975
+Date      2022-10-21 00:00:00
+Close                 0.14727
+Name: 24, dtype: object
+td SevenDay(index=1, count=45, price=0.14299, predictedPrice=0.13778895, dayIndex=1228, cost=0.14299, call=False)
+put failed, loss= 0.14299
+Friday option expire 6th td
+put sb.dataframe.iloc[-1] Volume               0.177938
+Date      2022-10-21 00:00:00
+Close                 0.13001
+Name: 24, dtype: object
+td SevenDay(index=6, count=45, price=0.13029, predictedPrice=0.12509628, dayIndex=1228, cost=0.13029, call=False)
+put net =  -0.11768999999999988
+Friday option expire 7th td
+call sb.dataframe.iloc[-] Volume               0.169615
+Date      2022-10-21 00:00:00
+Close                 0.24212
+Name: 24, dtype: object
+td SevenDay(index=2, count=45, price=0.23424, predictedPrice=0.24599108, dayIndex=1228, cost=0.23424, call=True)
+call net = 0.12035999999999991
+m: 8.634500000000003  baseValue: 9.75682  dayIndex: 1234   2022-11-28 13:45:54.845476  5114 seconds
+aDayIndes 1235     weekDay Monday   Date 2022-10-24 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 8.634500000000003  baseValue: 9.85057  dayIndex: 1235   2022-11-28 13:52:49.827421  5529 seconds
+aDayIndes 1236     weekDay Tuesday   Date 2022-10-25 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 8.634500000000003  baseValue: 10.077949999999998  dayIndex: 1236   2022-11-28 13:59:41.523248  5941 seconds
+aDayIndes 1237     weekDay Wednesday   Date 2022-10-26 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 8.634500000000003  baseValue: 9.676779999999999  dayIndex: 1237   2022-11-28 14:06:35.528675  6355 seconds
+aDayIndes 1238     weekDay Thursday   Date 2022-10-27 00:00:00
+name amzn
+1/1 [==============================] - 0s 218ms/step
+name aapl
+1/1 [==============================] - 0s 216ms/step
+name msft
+1/1 [==============================] - 0s 221ms/step
+name googl
+1/1 [==============================] - 0s 213ms/step
+name goog
+1/1 [==============================] - 0s 222ms/step
+name tsla
+1/1 [==============================] - 0s 216ms/step
+name meta
+1/1 [==============================] - 0s 219ms/step
+name brk.b
+1/1 [==============================] - 0s 310ms/step
+name unh
+1/1 [==============================] - 0s 309ms/step
+name nvda
+1/1 [==============================] - 0s 319ms/step
+buying put fraction: -0.04608321175404432 stock: nvda
+buying put fraction: -0.047820367575422684 stock: tsla
+buying put fraction: -0.062488071185094154 stock: msft
+buying put fraction: -0.0662652295488276 stock: meta
+buying put fraction: -0.04608321175404432 stock: nvda
+buying put fraction: -0.047820367575422684 stock: tsla
+m: 7.596110000000002  baseValue: 9.339329999999999  dayIndex: 1238   2022-11-28 14:14:01.464851  6801 seconds
+aDayIndes 1239     weekDay Friday   Date 2022-10-28 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+Friday option expire 0th td
+put sb.dataframe.iloc[-1] Volume               0.076816
+Date      2022-10-28 00:00:00
+Close                 0.55124
+Name: 19, dtype: object
+td SevenDay(index=8, count=45, price=0.52088, predictedPrice=0.5061469, dayIndex=1233, cost=0.52088, call=False)
+put failed, loss= 0.52088
+Friday option expire 1th td
+put sb.dataframe.iloc[-1] Volume               0.330459
+Date      2022-10-28 00:00:00
+Close                 0.15574
+Name: 19, dtype: object
+td SevenDay(index=1, count=45, price=0.14339, predictedPrice=0.13778123, dayIndex=1233, cost=0.14339, call=False)
+put failed, loss= 0.14339
+Friday option expire 2th td
+put sb.dataframe.iloc[-1] Volume               0.245669
+Date      2022-10-28 00:00:00
+Close                 0.09658
+Name: 19, dtype: object
+td SevenDay(index=4, count=45, price=0.10053, predictedPrice=0.09602234, dayIndex=1233, cost=0.10053, call=False)
+put net =  0.0772199999999998
+Friday option expire 3th td
+put sb.dataframe.iloc[-1] Volume               0.175312
+Date      2022-10-28 00:00:00
+Close                 0.13834
+Name: 19, dtype: object
+td SevenDay(index=9, count=45, price=0.12193999999999999, predictedPrice=0.115547806, dayIndex=1233, cost=0.12193999999999999, call=False)
+put failed, loss= 0.12193999999999999
+m: 7.773860000000002  baseValue: 9.58922  dayIndex: 1239   2022-11-28 14:22:47.062326  7326 seconds
+aDayIndes 1240     weekDay Monday   Date 2022-10-31 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 7.773860000000002  baseValue: 9.437109999999999  dayIndex: 1240   2022-11-28 14:30:36.847623  7796 seconds
+aDayIndes 1241     weekDay Tuesday   Date 2022-11-01 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 7.773860000000002  baseValue: 9.2753  dayIndex: 1241   2022-11-28 14:37:22.054005  8201 seconds
+aDayIndes 1242     weekDay Wednesday   Date 2022-11-02 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 7.773860000000002  baseValue: 8.968589999999999  dayIndex: 1242   2022-11-28 14:44:04.501989  8604 seconds
+aDayIndes 1243     weekDay Thursday   Date 2022-11-03 00:00:00
+name amzn
+1/1 [==============================] - 0s 216ms/step
+name aapl
+1/1 [==============================] - 0s 217ms/step
+name msft
+1/1 [==============================] - 0s 218ms/step
+name googl
+1/1 [==============================] - 0s 214ms/step
+name goog
+1/1 [==============================] - 0s 222ms/step
+name tsla
+1/1 [==============================] - 0s 214ms/step
+name meta
+1/1 [==============================] - 0s 220ms/step
+name brk.b
+1/1 [==============================] - 0s 214ms/step
+name unh
+1/1 [==============================] - 0s 216ms/step
+name nvda
+1/1 [==============================] - 0s 214ms/step
+buying put fraction: -0.033091365943294405 stock: msft
+buying put fraction: -0.0636355989895302 stock: brk.b
+buying put fraction: -0.033091365943294405 stock: msft
+m: 7.061510000000002  baseValue: 8.79596  dayIndex: 1243   2022-11-28 14:50:54.225152  9014 seconds
+aDayIndes 1244     weekDay Friday   Date 2022-11-04 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+Friday option expire 0th td
+put sb.dataframe.iloc[-1] Volume               0.213235
+Date      2022-11-04 00:00:00
+Close                 0.14156
+Name: 14, dtype: object
+td SevenDay(index=9, count=45, price=0.13176, predictedPrice=0.12568808, dayIndex=1238, cost=0.13176, call=False)
+put failed, loss= 0.13176
+Friday option expire 1th td
+put sb.dataframe.iloc[-1] Volume               0.078165
+Date      2022-11-04 00:00:00
+Close                 0.20747
+Name: 14, dtype: object
+td SevenDay(index=5, count=45, price=0.22509, predictedPrice=0.21432611, dayIndex=1238, cost=0.22509, call=False)
+put net =  0.567810000000001
+Friday option expire 2th td
+put sb.dataframe.iloc[-1] Volume               0.272393
+Date      2022-11-04 00:00:00
+Close                 0.22139
+Name: 14, dtype: object
+td SevenDay(index=2, count=45, price=0.22675, predictedPrice=0.21258083, dayIndex=1238, cost=0.22675, call=False)
+put net =  0.014450000000001406
+Friday option expire 3th td
+put sb.dataframe.iloc[-1] Volume               0.218951
+Date      2022-11-04 00:00:00
+Close                 0.09079
+Name: 14, dtype: object
+td SevenDay(index=6, count=45, price=0.09794, predictedPrice=0.09144998, dayIndex=1238, cost=0.09794, call=False)
+put net =  0.22380999999999954
+Friday option expire 4th td
+put sb.dataframe.iloc[-1] Volume               0.213235
+Date      2022-11-04 00:00:00
+Close                 0.14156
+Name: 14, dtype: object
+td SevenDay(index=9, count=45, price=0.13176, predictedPrice=0.12568808, dayIndex=1238, cost=0.13176, call=False)
+put failed, loss= 0.13176
+Friday option expire 5th td
+put sb.dataframe.iloc[-1] Volume               0.078165
+Date      2022-11-04 00:00:00
+Close                 0.20747
+Name: 14, dtype: object
+td SevenDay(index=5, count=45, price=0.22509, predictedPrice=0.21432611, dayIndex=1238, cost=0.22509, call=False)
+put net =  0.567810000000001
+m: 9.210260000000005  baseValue: 8.931289999999999  dayIndex: 1244   2022-11-28 14:57:37.331727  9417 seconds
+aDayIndes 1245     weekDay Monday   Date 2022-11-07 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 9.210260000000005  baseValue: 9.027949999999999  dayIndex: 1245   2022-11-28 15:04:24.708102  9824 seconds
+aDayIndes 1246     weekDay Tuesday   Date 2022-11-08 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 9.210260000000005  baseValue: 9.05783  dayIndex: 1246   2022-11-28 15:11:11.421195  10231 seconds
+aDayIndes 1247     weekDay Wednesday   Date 2022-11-09 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 9.210260000000005  baseValue: 8.83204  dayIndex: 1247   2022-11-28 15:17:57.422755  10637 seconds
+aDayIndes 1248     weekDay Thursday   Date 2022-11-10 00:00:00
+name amzn
+1/1 [==============================] - 0s 214ms/step
+name aapl
+1/1 [==============================] - 0s 233ms/step
+name msft
+1/1 [==============================] - 0s 223ms/step
+name googl
+1/1 [==============================] - 0s 218ms/step
+name goog
+1/1 [==============================] - 0s 225ms/step
+name tsla
+1/1 [==============================] - 0s 223ms/step
+name meta
+1/1 [==============================] - 0s 215ms/step
+name brk.b
+1/1 [==============================] - 0s 216ms/step
+name unh
+1/1 [==============================] - 0s 217ms/step
+name nvda
+1/1 [==============================] - 0s 214ms/step
+buying call fraction: 0.02620168851988307 stock: brk.b
+buying put fraction: -0.08082478670799893 stock: unh
+m: 8.362890000000005  baseValue: 9.52191  dayIndex: 1248   2022-11-28 15:24:48.974891  11048 seconds
+aDayIndes 1249     weekDay Friday   Date 2022-11-11 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+Friday option expire 0th td
+put sb.dataframe.iloc[-1] Volume               0.251143
+Date      2022-11-11 00:00:00
+Close                 0.24711
+Name: 9, dtype: object
+td SevenDay(index=2, count=45, price=0.21425, predictedPrice=0.20716017, dayIndex=1243, cost=0.21425, call=False)
+put failed, loss= 0.21425
+Friday option expire 1th td
+put sb.dataframe.iloc[-1] Volume               0.262674
+Date      2022-11-11 00:00:00
+Close                 0.30972
+Name: 9, dtype: object
+td SevenDay(index=7, count=45, price=0.28385000000000005, predictedPrice=0.26578704, dayIndex=1243, cost=0.28385000000000005, call=False)
+put failed, loss= 0.28385000000000005
+Friday option expire 2th td
+put sb.dataframe.iloc[-1] Volume               0.251143
+Date      2022-11-11 00:00:00
+Close                 0.24711
+Name: 9, dtype: object
+td SevenDay(index=2, count=45, price=0.21425, predictedPrice=0.20716017, dayIndex=1243, cost=0.21425, call=False)
+put failed, loss= 0.21425
+m: 8.362890000000005  baseValue: 9.68664  dayIndex: 1249   2022-11-28 15:33:07.192026  11547 seconds
+aDayIndes 1250     weekDay Monday   Date 2022-11-14 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 8.362890000000005  baseValue: 9.588949999999999  dayIndex: 1250   2022-11-28 15:41:53.317713  12073 seconds
+aDayIndes 1251     weekDay Tuesday   Date 2022-11-15 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 8.362890000000005  baseValue: 9.702449999999999  dayIndex: 1251   2022-11-28 15:50:07.489684  12567 seconds
+aDayIndes 1252     weekDay Wednesday   Date 2022-11-16 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 8.362890000000005  baseValue: 9.588469999999997  dayIndex: 1252   2022-11-28 15:57:02.086366  12981 seconds
+aDayIndes 1253     weekDay Thursday   Date 2022-11-17 00:00:00
+name amzn
+1/1 [==============================] - 0s 215ms/step
+name aapl
+1/1 [==============================] - 0s 213ms/step
+name msft
+1/1 [==============================] - 0s 218ms/step
+name googl
+1/1 [==============================] - 0s 219ms/step
+name goog
+1/1 [==============================] - 0s 222ms/step
+name tsla
+1/1 [==============================] - 0s 216ms/step
+name meta
+1/1 [==============================] - 0s 221ms/step
+name brk.b
+1/1 [==============================] - 0s 215ms/step
+name unh
+1/1 [==============================] - 0s 219ms/step
+name nvda
+1/1 [==============================] - 0s 221ms/step
+buying put fraction: -0.0392511092823699 stock: unh
+buying put fraction: -0.0392511092823699 stock: unh
+m: 7.3322700000000065  baseValue: 9.533669999999999  dayIndex: 1253   2022-11-28 16:03:56.191316  13396 seconds
+aDayIndes 1254     weekDay Friday   Date 2022-11-18 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+Friday option expire 0th td
+call sb.dataframe.iloc[-] Volume               0.114022
+Date      2022-11-18 00:00:00
+Close                 0.31076
+Name: 4, dtype: object
+td SevenDay(index=7, count=45, price=0.30319999999999997, predictedPrice=0.31114435, dayIndex=1248, cost=0.30319999999999997, call=True)
+call net = 0.03700000000000053
+Friday option expire 1th td
+put sb.dataframe.iloc[-1] Volume               0.106987
+Date      2022-11-18 00:00:00
+Close                    0.53
+Name: 4, dtype: object
+td SevenDay(index=8, count=45, price=0.5441699999999999, predictedPrice=0.5001876, dayIndex=1248, cost=0.5441699999999999, call=False)
+put net =  0.09347999999999579
+m: 8.310120000000003  baseValue: 9.5267  dayIndex: 1254   2022-11-28 16:10:48.137077  13807 seconds
+aDayIndes 1255     weekDay Monday   Date 2022-11-21 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 8.310120000000003  baseValue: 9.360269999999998  dayIndex: 1255   2022-11-28 16:17:31.620772  14211 seconds
+aDayIndes 1256     weekDay Tuesday   Date 2022-11-22 00:00:00
+name amzn
+name aapl
+name msft
+name googl
+name goog
+name tsla
+name meta
+name brk.b
+name unh
+name nvda
+m: 8.310120000000003  baseValue: 9.517969999999998  dayIndex: 1256   2022-11-28 16:24:16.088592  14615 seconds
+td: SevenDay(index=8, count=45, price=0.5153099999999999, predictedPrice=0.4950835, dayIndex=1253, cost=0.5153099999999999, call=False) name: unh
+td: SevenDay(index=8, count=45, price=0.5153099999999999, predictedPrice=0.4950835, dayIndex=1253, cost=0.5153099999999999, call=False) name: unh
+total: 9.340740000000004  m: 8.310120000000003  baseValue: 9.517969999999998  2022-11-28 16:24:16.091070  14615 seconds
